@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joy1maker/monster-card-learning-react-basics-/static/css/main.a5ec5dc9.css",
+    "main.js": "/joy1maker/monster-card-learning-react-basics-/static/js/main.ba112489.js",
+    "static/js/787.c85b1d33.chunk.js": "/joy1maker/monster-card-learning-react-basics-/static/js/787.c85b1d33.chunk.js",
+    "index.html": "/joy1maker/monster-card-learning-react-basics-/index.html",
+    "main.a5ec5dc9.css.map": "/joy1maker/monster-card-learning-react-basics-/static/css/main.a5ec5dc9.css.map",
+    "main.ba112489.js.map": "/joy1maker/monster-card-learning-react-basics-/static/js/main.ba112489.js.map",
+    "787.c85b1d33.chunk.js.map": "/joy1maker/monster-card-learning-react-basics-/static/js/787.c85b1d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ec5dc9.css",
+    "static/js/main.ba112489.js"
+  ]
+}
